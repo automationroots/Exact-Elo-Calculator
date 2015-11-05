@@ -10,10 +10,9 @@ Also contain a small simulation of the same algorithm for players with known exp
 
 ## Files
 
-ELO           --> script to perform the calculation of the Elo rating for a set of players in a game in which someone can win, lose or draw
+ELO           --> script to perform the calculation of the Elo rating for a set of players in a game in which someone can win, lose or draw  
 ELOsimulation --> simulation of the algorithm for a small group of players with known Elo rating
 
 ## License
 
 GPL V3
-
