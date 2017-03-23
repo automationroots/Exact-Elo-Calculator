@@ -2,7 +2,7 @@
 
 ## Elo Calculator
 
-This repository contains a script to perform the calculation of the Elo rating for game players (in the sense of the traditional Elo rating system used in games like Chess), this script does not use the traditional method which include a proportional linear adjustment, it rather uses another iterative method which i have developed and [explained in my blog in spanish.](https://donebymachines.wordpress.com/2015/11/04/como-calcular-el-elo-sin-el-ajuste-lineal/)
+This repository contains a script to perform the calculation of the Elo rating for game players (in the sense of the traditional Elo rating system used in games like Chess), this script does not use the traditional method which include a proportional linear adjustment, it rather uses another iterative method which i have developed and [explained in my blog in spanish.](https://automationroots.wordpress.com/2015/11/04/como-calcular-el-elo-sin-el-ajuste-lineal/)
 
 ## Simulation
 
