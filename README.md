@@ -15,4 +15,4 @@ ELOsimulation --> simulation of the algorithm for a small group of players with 
 
 ## License
 
-GPL V3
+This project is licensed under the BSD 2-Clause License - see the [LICENSE](LICENSE) file for details
